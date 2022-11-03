@@ -22,7 +22,7 @@ MTSLUI_ADDON = {
         -- max build number from server for phase 1,
         {
             ["id"] = 1,
-            ["max_tocversion"] = 20501,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 2,
@@ -64,8 +64,6 @@ MTSLUI_ICONS_PROFESSION = {
     ["Cooking"] = "133971",
     ["First Aid"] = "135966",
     ["Fishing"] = "136245",
-    -- Rogue only
-    ["Poisons"] = "136242",
 }
 
 MTSLUI_ADDON_PATH = "Interface\\AddOns\\MissingTradeSkillsList_TBC"

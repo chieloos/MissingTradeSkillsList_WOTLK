@@ -44,7 +44,6 @@ MTSLUI_NPC_SKILL_LIST_FRAME = {
         ["Cooking"] = "inv_misc_food_15",
         ["First Aid"] = "spell_holy_sealofsacrifice",
         ["Fishing"] = "trade_fishing",
-        ["Poisons"] =  "trade_brewpoison",
     },
 
     ----------------------------------------------------------------------------------------------------------

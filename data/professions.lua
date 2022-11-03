@@ -167,21 +167,6 @@ MTSL_DATA["professions"] = {
             ["Taiwanese"] = "採礦",
         },
     },
-    ["Poisons"] = {
-        ["id"] = 2842,
-        ["name"] = {
-            ["Chinese"] = "毒药",
-            ["English"] = "Poisons",
-            ["French"] = "Poisons",
-            ["German"] = "Gifte",
-            ["Korean"] = "약초 채집",
-            ["Mexican"] = "Venenos",
-            ["Portuguese"] = "Venenos",
-            ["Russian"] = "Яды",
-            ["Spanish"] = "Venenos",
-            ["Taiwanese"] = "毒藥",
-        },
-    },
     ["Skinning"] = {
         ["id"] = 8613,
         ["name"] = {
