@@ -55,6 +55,7 @@ MTSLUI_ICONS_PROFESSION = {
     ["Enchanting"] = "136244", -- craft
     ["Engineering"] = "136243",
     ["Herbalism"] = "136065",
+	["Inscription"] = "237171", -- New for WOTLK
     ["Jewelcrafting"] = "134071", -- New for TBC
     ["Leatherworking"] = "133611",
     ["Mining"] = "136248",

@@ -122,6 +122,21 @@ MTSL_DATA["professions"] = {
             ["Taiwanese"] = "草藥學",
         },
     },
+	["Inscription"] = {
+        ["id"] = 45357,
+        ["name"] = {
+            ["Chinese"] = "铭文",
+            ["English"] = "Inscription",
+            ["French"] = "Calligraphie",
+            ["German"] = "Inschriftenkunde",
+            ["Korean"] = "주문각인",
+            ["Mexican"] = "Inscripción",
+            ["Portuguese"] = "Escrivania",
+            ["Russian"] = "Начертание",
+            ["Spanish"] = "Inscripción",
+            ["Taiwanese"] = "銘文",
+        },
+    },
     ["Jewelcrafting"] = {
         ["id"] = 25229,
         ["name"] = {

@@ -15,6 +15,7 @@ MTSL_DATA = {
         ["First Aid"] = 6,
         ["Fishing"] = 6,
         ["Herbalism"] = 6,
+		["Inscription"] = 6,
         ["Jewelcrafting"] = 6,
         ["Leatherworking"] = 6,
         ["Mining"] = 6,
