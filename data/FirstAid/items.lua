@@ -207,4 +207,27 @@ MTSL_DATA["items"]["First Aid"] =
 			},
 		},
 	},
+	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 82,
+				["min_xp_level"] = 70,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 39152,
+		["name"] = {
+			["Chinese"] = "手册：厚霜纹布绷带",
+			["English"] = "Manual: Heavy Frostweave Bandage",
+			["French"] = "Manuel : Bandage épais en tisse-givre",
+			["German"] = "Handbuch: Schwerer Froststoffverband",
+			["Korean"] = "처방전: 두꺼운 서리매듭 붕대",
+			["Portuguese"] = "Manual: Bandagem Grossa de Friotrama",
+			["Russian"] = "Учебник: плотные бинты из ледяной ткани",
+			["Spanish"] = "Manual: venda de tejido de Escarcha gruesa",
+			["Taiwanese"] = "手冊：厚霜紋布繃帶",
+		},
+		["phase"] = 1,
+		["quality"] = "uncommon",
+	},
 }
