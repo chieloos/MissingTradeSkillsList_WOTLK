@@ -2,7 +2,7 @@
 -- Contains all shared functions for the logic --
 -------------------------------------------------
 
-MTSL_AVAILABLE_PROFESSIONS = { "Alchemy", "Blacksmithing", "Cooking", "Enchanting", "Engineering", "First Aid", "Leatherworking", "Mining", "Poisons", "Tailoring" }
+MTSL_AVAILABLE_PROFESSIONS = { "Alchemy", "Blacksmithing", "Cooking", "Enchanting", "Engineering", "First Aid", "Inscription", "Leatherworking", "Mining", "Tailoring" }
 MTSL_AVAILABLE_LANGUAGES = { "French", "English", "German", "Russian", "Spanish", "Portuguese", "Chinese", "Taiwanese" }
 
 MTSL_TOOLS = {

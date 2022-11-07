@@ -2018,6 +2018,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["phase"] = 1,
 		["quality"] = "uncommon",
 		["vendors"] = {
+			["currency_type"] = "item",
 			["currency"] = 24245,
 			["price"] = 30,
 			["sources"] = {
@@ -2273,6 +2274,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["phase"] = 1,
 		["quality"] = "uncommon",
 		["vendors"] = {
+			["currency_type"] = "item",
 			["currency"] = 24245,
 			["price"] = 25,
 			["sources"] = {
@@ -2949,6 +2951,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
+			["currency_type"] = "item",
 			["currency"] = 26044,
 			["price"] = 2,
 			["sources"] = {
@@ -2977,7 +2980,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["reputation"] = {
 			["faction_id"] = 967,
 			["level_id"] = 6,
-		},		
+		},
 		["vendors"] = {
 			["price"] = 40000,
 			["sources"] = {
@@ -3143,5 +3146,122 @@ MTSL_DATA["items"]["Alchemy"] =
 				25032,
 			},
 		},
+	},
+	{
+		["drops"] = {
+			["sources"] = {
+				31702,
+				32297,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 44564,
+		["name"] = {
+			["Chinese"] = "配方：极效奥术防护药水",
+			["English"] = "Recipe: Mighty Arcane Protection Potion",
+			["French"] = "Recette : Potion de protection contre les Arcanes puissante",
+			["German"] = "Rezept: Mächtiger Arkanschutztrank",
+			["Korean"] = "조제법: 강력한 비전 보호의 물약",
+			["Mexican"] = "Receta: poción de Protección contra lo Arcano poderosa",
+			["Portuguese"] = "Receita: Poção Potente de Proteção contra o Arcano",
+			["Russian"] = "Рецепт: мощное зелье защиты от тайной магии",
+			["Spanish"] = "Receta: poción de Protección contra lo Arcano poderosa",
+			["Taiwanese"] = "配方：極效奧術防護藥水",
+		},
+		["phase"] = 1,
+		["quality"] = "common",
+	},
+	{
+		["drops"] = {
+			["sources"] = {
+				31321,
+				30921,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 44565,
+		["name"] = {
+			["Chinese"] = "配方：极效火焰防护药水",
+			["English"] = "Recipe: Mighty Fire Protection Potion",
+			["French"] = "Recette : Potion de protection contre le Feu puissante",
+			["German"] = "Rezept: Mächtiger Feuerschutztrank",
+			["Korean"] = "조제법: 강력한 화염 보호의 물약",
+			["Mexican"] = "Receta: poción de Protección contra el Fuego poderosa",
+			["Portuguese"] = "Receita: Poção Potente de Proteção contra o Fogo",
+			["Russian"] = "Рецепт: мощное зелье защиты от огня",
+			["Spanish"] = "Receta: poción de Protección contra el Fuego poderosa",
+			["Taiwanese"] = "配方：極效火焰防護藥水",
+		},
+		["phase"] = 1,
+		["quality"] = "common",
+	},
+	{
+		["drops"] = {
+			["sources"] = {
+				32289,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 44566,
+		["name"] = {
+			["Chinese"] = "配方：极效冰霜防护药水",
+			["English"] = "Recipe: Mighty Frost Protection Potion",
+			["French"] = "Recette : Potion de protection contre le Givre puissante",
+			["German"] = "Rezept: Mächtiger Frostschutztrank",
+			["Korean"] = "조제법: 강력한 냉기 보호의 물약",
+			["Mexican"] = "Receta: poción de Protección contra la Escarcha poderosa",
+			["Portuguese"] = "Receita: Poção Potente de Proteção contra o Gelo",
+			["Russian"] = "Рецепт: мощное зелье защиты от магии льда",
+			["Spanish"] = "Receta: poción de Protección contra la Escarcha poderosa",
+			["Taiwanese"] = "配方：極效冰霜防護藥水",
+		},
+		["phase"] = 1,
+		["quality"] = "common",
+	},
+	{
+		["drops"] = {
+			["sources"] = {
+				32290,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 44567,
+		["name"] = {
+			["Chinese"] = "配方：极效自然防护药水",
+			["English"] = "Recipe: Mighty Nature Protection Potion",
+			["French"] = "Recette : Potion de protection contre la Nature puissante",
+			["German"] = "Rezept: Mächtiger Naturschutztrank",
+			["Korean"] = "조제법: 강력한 자연 보호의 물약",
+			["Mexican"] = "Receta: poción de Protección contra la Naturaleza poderosa",
+			["Portuguese"] = "Receita: Poção Potente de Proteção contra a Natureza",
+			["Russian"] = "Рецепт: мощное зелье защиты от сил природы",
+			["Spanish"] = "Receta: poción de Protección contra la Naturaleza poderosa",
+			["Taiwanese"] = "配方：極效自然防護藥水",
+		},
+		["phase"] = 1,
+		["quality"] = "common",
+	},
+	{
+		["drops"] = {
+			["sources"] = {
+				32349,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 44568,
+		["name"] = {
+			["Chinese"] = "配方：极效暗影防护药水",
+			["English"] = "Recipe: Mighty Shadow Protection Potion",
+			["French"] = "Recette : Potion de protection contre l'Ombre puissante",
+			["German"] = "Rezept: Mächtiger Schattenschutztrank",
+			["Korean"] = "조제법: 강력한 암흑 보호의 물약",
+			["Mexican"] = "Receta: poción de Protección contra las Sombras poderosa",
+			["Portuguese"] = "Receita: Poção Potente de Proteção contra a Sombra",
+			["Russian"] = "Рецепт: мощное зелье защиты от темной магии",
+			["Spanish"] = "Receta: poción de Protección contra las Sombras poderosa",
+			["Taiwanese"] = "配方：極效暗影防護藥水",
+		},
+		["phase"] = 1,
+		["quality"] = "common",
 	},
 }

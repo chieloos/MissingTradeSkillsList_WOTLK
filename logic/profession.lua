@@ -172,13 +172,13 @@ MTSL_LOGIC_PROFESSION = {
     --
     -- return				Array		All the skills for one profession sorted by name or minimim skill
     ------------------------------------------------------------------------------------------------
-    GetAllAvailableSkillsForProfession = function(self, profession_name, max_phase, class_name)
+    GetAllAvailableSkillsForProfession = function(self, profession_name, max_expansion, max_phase, class_name)
         local profession_skills = {}
 
         if MTSL_DATA["skills"][profession_name] then
             -- add all the skills, dont add a skill if obtainable for ohter classes
             for _, skill in pairs(MTSL_DATA["skills"][profession_name]) do
-                if tonumber(skill.phase) <= tonumber(max_phase) and
+                if (tonumber(skill.expansion) < tonumber(max_expansion) or tonumber(skill.phase) <= tonumber(max_phase)) and
                         (not skill.classes or (skill.classes and MTSL_TOOLS:ListContainsKeyIngoreCasingAndSpaces(skill.classes, class_name))) then
                     table.insert(profession_skills, skill)
                 end
@@ -251,7 +251,14 @@ MTSL_LOGIC_PROFESSION = {
                     local skill_name, skill_type = GetTradeSkillInfo(i)
                     -- Skip the headers, only check real skills
                     if skill_name and skill_type ~= "header" then
-                        local crafted_item_id = GetTradeSkillItemLink(i):match("item:(%d+)")
+                        -- Check if skill has a crafted item
+                        local crafted_item_link = GetTradeSkillItemLink(i)
+                            if crafted_item_link ~= nil then
+                                local crafted_item_id = crafted_item_link:match("item:(%d+)")
+                            else
+                                local crafted_item_id = nil
+                            end
+                        -- local crafted_item_id = GetTradeSkillItemLink(i):match("item:(%d+)")
                         if crafted_item_id then
                             local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByCraftedItemId(crafted_item_id, profession_name)
                             if skill_id ~= 0 then
@@ -261,6 +268,11 @@ MTSL_LOGIC_PROFESSION = {
                                 if skill_id ~= 0 then
                                     table.insert(learned_skill_ids, skill_id)
                                 end
+                            end
+                        else
+                            local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByLocalisedName(skill_name, profession_name)
+                            if skill_id ~= 0 then
+                                table.insert(learned_skill_ids, skill_id)
                             end
                         end
                     end

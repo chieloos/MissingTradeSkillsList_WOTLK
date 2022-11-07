@@ -2487,7 +2487,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "common",
 		["quests"] = {
 			9635,
-		}
+		},
 	},
 	{
 		["drops"] = {
@@ -2541,8 +2541,8 @@ MTSL_DATA["items"]["Engineering"] =
 	{
 		["drops"] = {
 			["sources"] = {
-				23386
-			}
+				23386,
+			},
 		},
 		["expansion"] = 2,
 		["id"] = 34114,
@@ -2559,7 +2559,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["Taiwanese"] = "設計圖:修理機器人110G型",
 		},
 		["phase"] = 3,
-		["quality"] = "uncommon"
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2879,6 +2879,97 @@ MTSL_DATA["items"]["Engineering"] =
 			["Russian"] = "Схема: облегченные экстремальные реактивные сапоги",
 			["Spanish"] = "Esquema: botas cohete Xtremo ligeras",
 			["Taiwanese"] = "結構圖:輕巧型火箭靴極限版",
+		},
+		["phase"] = 1,
+		["quality"] = "rare",
+	},
+	{
+		["expansion"] = 3,
+		["id"] = 44502,
+		["name"] = {
+			["Chinese"] = "结构图：机械路霸",
+			["English"] = "Schematic: Mechano-hog",
+			["French"] = "Schéma : Mécabécane",
+			["German"] = "Bauplan: Feuerstuhl",
+			["Korean"] = "설계도: 호토바이",
+			["Mexican"] = "Esquema: meca-jarly",
+			["Portuguese"] = "Diagrama: Mecanotoca",
+			["Russian"] = "Схема: механоцикл",
+			["Spanish"] = "Esquema: meca-jarly",
+			["Taiwanese"] = "結構圖：機械路霸",
+		},
+		["phase"] = 1,
+		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 1052,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 3200000-3600000,
+			["sources"] = {
+				32565,
+				32774,
+			},
+		},
+	},
+	{
+		["expansion"] = 3,
+		["id"] = 44503,
+		["name"] = {
+			["Chinese"] = "结构图：机械师的摩托车",
+			["English"] = "Schematic: Mekgineer's Chopper",
+			["French"] = "Schéma : Bécane de mekgénieur",
+			["German"] = "Bauplan: Chopper des Robogenieurs",
+			["Korean"] = "설계도: 기계박사의 붕붕이",
+			["Mexican"] = "Esquema: chopper de mekigeniero",
+			["Portuguese"] = "Diagrama: Motoca do Mecangenheiro",
+			["Russian"] = "Схема: анжинерский чоппер",
+			["Spanish"] = "Esquema: chopper de mekigeniero",
+			["Taiwanese"] = "結構圖：機械師的摩托車",
+		},
+		["phase"] = 1,
+		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 1037,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 3800000,
+			["sources"] = {
+				32564,
+				32773,
+			},
+		},
+	},
+	{
+		["drops"] = {
+			["sources"] = {
+				25752,
+				25753,
+				25758,
+				25792,
+				25814,
+				27641,
+				27970,
+				27971,
+				27972,
+				28835,
+				29724,
+			},
+		},
+		["expansion"] = 3,
+		["id"] = 49050,
+		["name"] = {
+			["Chinese"] = "结构图：基维斯",
+			["English"] = "Schematic: Jeeves",
+			["French"] = "Schéma : Jeeves",
+			["German"] = "Bauplan: Jeeves",
+			["Korean"] = "설계도: 지브스",
+			["Mexican"] = "Esquema: Jeeves",
+			["Portuguese"] = "Diagrama: Jarbas",
+			["Russian"] = "Схема: Дживс",
+			["Spanish"] = "Esquema: Jeeves",
+			["Taiwanese"] = "結構圖：基維斯",
 		},
 		["phase"] = 1,
 		["quality"] = "rare",

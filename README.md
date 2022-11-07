@@ -1,11 +1,11 @@
-# MissingTradeSkillsList (TBC)
-Addon for World Of Warcraft Classic (The Burning Crusade) v2.5  
+# MissingTradeSkillsList (WOTLK)
+Addon for World Of Warcraft Classic (Wrath of the Lich King) v2.5  
 Shows the missing recipes/skills for a tradeskill and where to get them  
 Addon works with **all** languages/locales! 
 
 Please **donate** (PayPal to thumbkin83@gmail.com) if you want to support this addon!
 
-Bug or request? Report an issue on https://github.com/Thumbkin/MissingTradeSkillsList_TBC
+Bug or request? Report an issue on https://github.com/chieloos/MissingTradeSkillsList_WOTLK
 
 ### Author
 Thumbkin (Retail: EU-Burning Steppes, Classic: EU-Pyrewood Village)
@@ -59,12 +59,12 @@ Minimap button & Enhanced tooltip
 ### Support
 
 Found a bug? Want to report wrong data?  
-Make an issue here: https://github.com/Thumbkin/MissingTradeSkillsList_TBC/issues  
+Make an issue here: https://github.com/chieloos/MissingTradeSkillsList_WOTLK/issues  
 Make sure to include the following details when making an issue:
 * Locale you play the game in (a.k.a. the language you play the game in)
 * Brief description of the problem
 * The error message (if its a bugreport)
-* The saved content of MissingTradeSkillsList_TBC.lua in \_classic\_/WTF/Account/\<your account name>/SavedVariables/
+* The saved content of MissingTradeSkillsList_WOTLK.lua in \_classic\_/WTF/Account/\<your account name>/SavedVariables/
 * Add screenshot(s) to describe the problem or from the errror (optional)
 
 **Make sure you have the latest version of the addon installed and checked current opened issues before reporting a new issue!**

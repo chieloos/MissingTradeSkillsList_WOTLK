@@ -11,6 +11,7 @@ MTSL_RECIPE_PROFESSION_TYPES  = {
     "Alchemy",          -- _G.LE_ITEM_RECIPE_ALCHEMY           = 6
     "First Aid",        -- _G.LE_ITEM_RECIPE_FIRST_AID         = 7
     "Enchanting",       -- _G.LE_ITEM_RECIPE_ENCHANTING        = 8
+	"Inscription",		-- _G.LE_ITEM_RECIPE_INSCRIPTION	   = 9
 }
 
 -- variable to avoid adding the info more than once to the tooltip

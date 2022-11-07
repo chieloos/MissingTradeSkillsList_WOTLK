@@ -1,5 +1,5 @@
-﻿## Interface: 20501
-## Title: Missing TradeSkills List (TBC)
+﻿## Interface: 30400
+## Title: Missing TradeSkills List (WOTLK)
 ## Author: Thumbkin
 ## Notes: Shows missing skills & recipes for a profession and where to get them.
 ## SavedVariables: MTSL_PLAYERS, MTSLUI_PLAYER, MTSL_MISSING_DATA
@@ -69,6 +69,10 @@ data\Fishing\skills.lua
 
 data\Herbalism\levels.lua
 
+data\Inscription\items.lua
+data\Inscription\levels.lua
+data\Inscription\skills.lua
+
 data\Jewelcrafting\items.lua
 data\Jewelcrafting\levels.lua
 data\Jewelcrafting\skills.lua
@@ -81,10 +85,6 @@ data\Leatherworking\specialisations.lua
 data\Mining\items.lua
 data\Mining\levels.lua
 data\Mining\skills.lua
-
-data\Poisons\items.lua
-data\Poisons\levels.lua
-data\Poisons\skills.lua
 
 data\Skinning\levels.lua
 
@@ -151,5 +151,5 @@ ui\minimap_button.lua
 ui\tooltip.lua
 
 # Initialise the frames & start the addon
-MissingTradeSkillsList_TBC.lua
+MissingTradeSkillsList_WOTLK.lua
 

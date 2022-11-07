@@ -32,4 +32,10 @@ MTSL_DATA["expansions"] = {
             ["Taiwanese"] = "燃燒的遠征",
         },
     },
+	    {
+        ["id"] = 3,
+        ["name"] = {
+            ["English"] = "Wrath of the Lich King",
+        },
+    },
 }

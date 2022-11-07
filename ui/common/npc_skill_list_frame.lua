@@ -36,6 +36,7 @@ MTSLUI_NPC_SKILL_LIST_FRAME = {
         ["Enchanting"] = "trade_engraving",
         ["Engineering"] = "trade_engineering",
         ["Herbalism"] = "spell_nature_naturetouchgrow",
+		["Inscription"] = "inv_inscription_tradeskill01",
         ["Jewelcrafting"] = "inv_misc_gem_01",
         ["Leatherworking"] = "inv_misc_armorkit_17",
         ["Mining"] = "trade_mining",
@@ -44,7 +45,6 @@ MTSLUI_NPC_SKILL_LIST_FRAME = {
         ["Cooking"] = "inv_misc_food_15",
         ["First Aid"] = "spell_holy_sealofsacrifice",
         ["Fishing"] = "trade_fishing",
-        ["Poisons"] =  "trade_brewpoison",
     },
 
     ----------------------------------------------------------------------------------------------------------

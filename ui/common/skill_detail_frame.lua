@@ -776,9 +776,9 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                     -- if its a currency, dont convert price to gold
                     if item.vendors.currency then
                         if is_alternative_source == 1 and self.labels.price.value:GetText() ~= "" then
-                            self.labels.price.value:SetText(self.labels.price.value:GetText() .. " / " .. item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency))
+                            self.labels.price.value:SetText(self.labels.price.value:GetText() .. " / " .. item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency, item.vendors.currency_type))
                         else
-                            self.labels.price.value:SetText(item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency))
+                            self.labels.price.value:SetText(item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency, item.vendors.currency_type))
                         end
                     else
                         if is_alternative_source == 1 and self.labels.price.value:GetText() ~= "" then

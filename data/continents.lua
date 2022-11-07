@@ -92,4 +92,19 @@ MTSL_DATA["continents"] = {
             ["Taiwanese"] = "團隊副本",
         },
     },
+	{
+        ["id"] = 7,
+        ["name"] = {
+            ["Chinese"] = "诺森德",
+            ["English"] = "Northrend",
+            ["French"] = "Norfendre",
+            ["German"] = "Nordends",
+            ["Korean"] = "노스렌드",
+            ["Mexican"] = "Rasganorte",
+            ["Portuguese"] = "Nortúndria",
+            ["Russian"] = "Нордскола",
+            ["Spanish"] = "Rasganorte",
+            ["Taiwanese"] = "諾森德",
+        },
+    },
 }

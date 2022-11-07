@@ -122,6 +122,21 @@ MTSL_DATA["professions"] = {
             ["Taiwanese"] = "草藥學",
         },
     },
+	["Inscription"] = {
+        ["id"] = 45357,
+        ["name"] = {
+            ["Chinese"] = "铭文",
+            ["English"] = "Inscription",
+            ["French"] = "Calligraphie",
+            ["German"] = "Inschriftenkunde",
+            ["Korean"] = "주문각인",
+            ["Mexican"] = "Inscripción",
+            ["Portuguese"] = "Escrivania",
+            ["Russian"] = "Начертание",
+            ["Spanish"] = "Inscripción",
+            ["Taiwanese"] = "銘文",
+        },
+    },
     ["Jewelcrafting"] = {
         ["id"] = 25229,
         ["name"] = {
@@ -165,21 +180,6 @@ MTSL_DATA["professions"] = {
             ["Russian"] = "Горное дело",
             ["Spanish"] = "Minería",
             ["Taiwanese"] = "採礦",
-        },
-    },
-    ["Poisons"] = {
-        ["id"] = 2842,
-        ["name"] = {
-            ["Chinese"] = "毒药",
-            ["English"] = "Poisons",
-            ["French"] = "Poisons",
-            ["German"] = "Gifte",
-            ["Korean"] = "약초 채집",
-            ["Mexican"] = "Venenos",
-            ["Portuguese"] = "Venenos",
-            ["Russian"] = "Яды",
-            ["Spanish"] = "Venenos",
-            ["Taiwanese"] = "毒藥",
         },
     },
     ["Skinning"] = {

@@ -22,23 +22,23 @@ MTSLUI_ADDON = {
         -- max build number from server for phase 1,
         {
             ["id"] = 1,
-            ["max_tocversion"] = 20501,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 2,
-            ["max_tocversion"] = 20502,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 3,
-            ["max_tocversion"] = 20503,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 4,
-            ["max_tocversion"] = 20504,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 5,
-            ["max_tocversion"] = 20505,
+            ["max_tocversion"] = 30400,
         }
     }
 }
@@ -55,6 +55,7 @@ MTSLUI_ICONS_PROFESSION = {
     ["Enchanting"] = "136244", -- craft
     ["Engineering"] = "136243",
     ["Herbalism"] = "136065",
+	["Inscription"] = "237171", -- New for WOTLK
     ["Jewelcrafting"] = "134071", -- New for TBC
     ["Leatherworking"] = "133611",
     ["Mining"] = "136248",
@@ -64,8 +65,6 @@ MTSLUI_ICONS_PROFESSION = {
     ["Cooking"] = "133971",
     ["First Aid"] = "135966",
     ["Fishing"] = "136245",
-    -- Rogue only
-    ["Poisons"] = "136242",
 }
 
 MTSLUI_ADDON_PATH = "Interface\\AddOns\\MissingTradeSkillsList_TBC"
