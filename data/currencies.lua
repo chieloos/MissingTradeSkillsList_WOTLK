@@ -1,7 +1,7 @@
 -------------------------------------------------------
--- All currencies
+-- All item based currencies
 -------------------------------------------------------
-MTSL_DATA["currencies"] = {
+MTSL_DATA["currencies"]["items"] = {
     {
         ["id"] = 17203,
         ["name"] = {
@@ -47,4 +47,99 @@ MTSL_DATA["currencies"] = {
             ["Taiwanese"] = "哈蘭研究勳章",
         },
     },
-}--26044
+    {
+        ["id"] = 26044,
+        ["name"] = {
+            ["Chinese"] = "梦境碎片",
+            ["English"] = "Dream Shard",
+            ["French"] = "Eclat de rêve",
+            ["German"] = "Traumsplitter",
+            ["Korean"] = "꿈의 결정",
+            ["Mexican"] = "Fragmento onírico",
+            ["Portuguese"] = "Estilhaço Onírico",
+            ["Russian"] = "Осколок грез",
+            ["Spanish"] = "Fragmento onírico",
+            ["Taiwanese"] = "夢境碎片",
+        },
+    },
+    {
+        ["id"] = 38425,
+        ["name"] = {
+            ["Chinese"] = "厚北地皮",
+            ["English"] = "Heavy Borean Leather",
+            ["French"] = "Cuir boréen lourd",
+            ["German"] = "Schweres boreanisches Leder",
+            ["Korean"] = "두꺼운 북풍 가죽",
+            ["Mexican"] = "Cuero boreal pesado",
+            ["Portuguese"] = "Couro Boreano Pesado",
+            ["Russian"] = "Толстая борейская кожа",
+            ["Spanish"] = "Cuero boreal pesado",
+            ["Taiwanese"] = "厚北地皮",
+        },
+    },
+}
+-------------------------------------------------------
+-- All currency tab based currency 
+-------------------------------------------------------
+MTSL_DATA["currencies"]["tab"] = {
+    {
+        ["id"] = 61,
+        ["name"] = {
+            ["Chinese"] = "达拉然珠宝匠硬币",
+            ["English"] = "Dalaran Jewelcrafter's Token",
+            ["French"] = "Marque de joaillerie de Dalaran",
+            ["German"] = "Juwelierssymbol von Dalaran",
+            ["Korean"] = "달라란 보석세공사의 징표",
+            ["Mexican"] = "Muestra de joyero de Dalaran",
+            ["Portuguese"] = "Ficha do Joalheiro de Dalaran",
+            ["Russian"] = "Даларанский знак ювелира",
+            ["Spanish"] = "Muestra de joyero de Dalaran",
+            ["Taiwanese"] = "達拉然珠寶匠硬幣",
+        },
+    },
+    {
+        ["id"] = 81,
+        ["name"] = {
+            ["Chinese"] = "美食家奖章",
+            ["English"] = "Epicurean's Award",
+            ["French"] = "Récompense de l’épicurien",
+            ["German"] = "Feinschmeckerpreis",
+            ["Korean"] = "미식가의 상",
+            ["Mexican"] = "Premio epicúreo",
+            ["Portuguese"] = "Prêmio de Epicurista",
+            ["Russian"] = "Награда гурмана",
+            ["Spanish"] = "Premio epicúreo",
+            ["Taiwanese"] = "美食家獎章",
+        },
+    },
+    {
+        ["id"] = 161,
+        ["name"] = {
+            ["Chinese"] = "岩石守卫者的碎片",
+            ["English"] = "Stone Keeper's Shard",
+            ["French"] = "Éclat du gardien des pierres",
+            ["German"] = "Splitter eines Steinbewahrers",
+            ["Korean"] = "바위 문지기의 조각",
+            ["Mexican"] = "Fragmento de vigilante de piedra",
+            ["Portuguese"] = "Lasca do Guardião de Pedra",
+            ["Russian"] = "Осколок каменного хранителя",
+            ["Spanish"] = "Fragmento de vigilante de piedra",
+            ["Taiwanese"] = "岩石守衛者的碎片",
+        },
+    },
+    {
+        ["id"] = 1901,
+        ["name"] = {
+            ["Chinese"] = "荣誉点数",
+            ["English"] = "Honor Points",
+            ["French"] = "Points d’honneur",
+            ["German"] = "Ehrepunkte",
+            ["Korean"] = "명예 점수",
+            ["Mexican"] = "Puntos de honor",
+            ["Portuguese"] = "Pontos de Honra",
+            ["Russian"] = "Очки чести",
+            ["Spanish"] = "Puntos de honor",
+            ["Taiwanese"] = "榮譽點數",
+        },
+    },
+}

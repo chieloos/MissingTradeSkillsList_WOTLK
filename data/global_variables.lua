@@ -63,4 +63,5 @@ MTSL_DATA = {
     ["levels"] = {},
     ["skills"] = {},
     ["specialisations"] = {},
+    ["currencies"] = {}
 }

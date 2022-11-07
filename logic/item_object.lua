@@ -84,8 +84,8 @@ MTSL_LOGIC_ITEM_OBJECT = {
     --
     -- return			    Object		Found name (nil if not found)
     ------------------------------------------------------------------------------------------------
-    GetCurrencyNameById = function(self, id)
-        local currency = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["currencies"], "id", id)
+    GetCurrencyNameById = function(self, id, currency_type)
+        local currency = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["currencies"][currency_type], "id", id)
         if currency then
             return MTSLUI_TOOLS:GetLocalisedData(currency)
         else
