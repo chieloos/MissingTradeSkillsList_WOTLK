@@ -26,19 +26,19 @@ MTSLUI_ADDON = {
         },
         {
             ["id"] = 2,
-            ["max_tocversion"] = 20502,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 3,
-            ["max_tocversion"] = 20503,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 4,
-            ["max_tocversion"] = 20504,
+            ["max_tocversion"] = 30400,
         },
         {
             ["id"] = 5,
-            ["max_tocversion"] = 20505,
+            ["max_tocversion"] = 30400,
         }
     }
 }

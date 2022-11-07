@@ -16,7 +16,7 @@ MTSL_LOGIC_FACTION_REPUTATION = {
     GetFactionNameById = function(self, faction_id)
         local faction = MTSL_TOOLS:GetItemFromUnsortedListById(MTSL_DATA["factions"], faction_id)
         if faction == nil then
-            MTSLUI_TOOLS:AddMissingData("faction", faction_id)
+            MTSL_TOOLS:AddMissingData("faction", faction_id)
             return ""
         else
             return MTSLUI_TOOLS:GetLocalisedData(faction)

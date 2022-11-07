@@ -28,7 +28,7 @@ MTSL_DATA = {
     MAX_PATCH_LEVEL = 5,
     CURRENT_PATCH_LEVEL = 1,
     -- Phases by id: Naxxramas, Ulduar, Trial of the Crusader, Icecrown Citadel, The Ruby Sanctum
-    PHASE_IDS = { 3456, 4273, 4722 ,4812, 4987 },
+    PHASE_IDS = { 3456, 4273, 4722, 4812, 4987 },
     -- Current expansion = WOTLK (3)
     CURRENT_EXPANSION_ID = 3,
 
