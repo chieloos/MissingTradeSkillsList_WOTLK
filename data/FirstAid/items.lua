@@ -222,6 +222,7 @@ MTSL_DATA["items"]["First Aid"] =
 			["French"] = "Manuel : Bandage épais en tisse-givre",
 			["German"] = "Handbuch: Schwerer Froststoffverband",
 			["Korean"] = "처방전: 두꺼운 서리매듭 붕대",
+			["Mexican"] = "Manual: venda de tejido de Escarcha gruesa",
 			["Portuguese"] = "Manual: Bandagem Grossa de Friotrama",
 			["Russian"] = "Учебник: плотные бинты из ледяной ткани",
 			["Spanish"] = "Manual: venda de tejido de Escarcha gruesa",

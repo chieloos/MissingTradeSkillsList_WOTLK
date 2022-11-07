@@ -2487,7 +2487,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "common",
 		["quests"] = {
 			9635,
-		}
+		},
 	},
 	{
 		["drops"] = {
@@ -2541,8 +2541,8 @@ MTSL_DATA["items"]["Engineering"] =
 	{
 		["drops"] = {
 			["sources"] = {
-				23386
-			}
+				23386,
+			},
 		},
 		["expansion"] = 2,
 		["id"] = 34114,
@@ -2559,7 +2559,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["Taiwanese"] = "設計圖:修理機器人110G型",
 		},
 		["phase"] = 3,
-		["quality"] = "uncommon"
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2892,6 +2892,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["French"] = "Schéma : Mécabécane",
 			["German"] = "Bauplan: Feuerstuhl",
 			["Korean"] = "설계도: 호토바이",
+			["Mexican"] = "Esquema: meca-jarly",
 			["Portuguese"] = "Diagrama: Mecanotoca",
 			["Russian"] = "Схема: механоцикл",
 			["Spanish"] = "Esquema: meca-jarly",
@@ -2920,6 +2921,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["French"] = "Schéma : Bécane de mekgénieur",
 			["German"] = "Bauplan: Chopper des Robogenieurs",
 			["Korean"] = "설계도: 기계박사의 붕붕이",
+			["Mexican"] = "Esquema: chopper de mekigeniero",
 			["Portuguese"] = "Diagrama: Motoca do Mecangenheiro",
 			["Russian"] = "Схема: анжинерский чоппер",
 			["Spanish"] = "Esquema: chopper de mekigeniero",
@@ -2963,6 +2965,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["French"] = "Schéma : Jeeves",
 			["German"] = "Bauplan: Jeeves",
 			["Korean"] = "설계도: 지브스",
+			["Mexican"] = "Esquema: Jeeves",
 			["Portuguese"] = "Diagrama: Jarbas",
 			["Russian"] = "Схема: Дживс",
 			["Spanish"] = "Esquema: Jeeves",
