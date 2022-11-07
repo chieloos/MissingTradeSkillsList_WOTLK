@@ -4954,7 +4954,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "狂亂煉金師藥水",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5148,7 +5148,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "強效活力藥水",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5365,7 +5365,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "防護藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5385,7 +5385,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "速度藥水",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5405,7 +5405,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "狂野魔法藥水",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5425,7 +5425,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效魔血藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5590,7 +5590,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "精確藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5610,7 +5610,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "致命打擊藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5630,7 +5630,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效防禦藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5650,7 +5650,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "精準藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5670,7 +5670,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "護甲穿透藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5690,7 +5690,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "閃電疾速藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,
@@ -5912,7 +5912,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "水上行走藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "learned through discovery",
+		["special_action"] = "northrend alchemy research",
 	},
 	{
 		["expansion"] = 3,

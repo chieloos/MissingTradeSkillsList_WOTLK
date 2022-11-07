@@ -1210,6 +1210,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "低吼雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1270,6 +1271,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "颶風雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1289,6 +1291,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "激活雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1349,6 +1352,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "生命綻放雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1368,6 +1372,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "裂傷雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1502,6 +1507,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "癒合雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1644,6 +1650,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "星辰墜落雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1704,6 +1711,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "迅捷治愈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -1805,6 +1813,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "颱風雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2021,6 +2030,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "火球雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2081,6 +2091,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "寒冰箭雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2293,6 +2304,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "隱形雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2386,6 +2398,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "熔岩護甲雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2434,6 +2447,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "解除詛咒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2453,6 +2467,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水元素雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2472,6 +2487,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "衝擊波雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2606,6 +2622,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "野獸雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2666,6 +2683,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "蝰蛇守護雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -2685,6 +2703,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "狂野怒火雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3086,6 +3105,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "毒蛇陷阱雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3105,6 +3125,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "穩固射擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3124,6 +3145,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "強擊光環雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3143,6 +3165,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "亂射雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3162,6 +3185,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "翼龍釘刺雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3181,6 +3205,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "復仇者之盾雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3241,6 +3266,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "復仇之怒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3498,6 +3524,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "憤怒之鎚雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3714,6 +3741,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "光明聖印雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3733,6 +3761,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "智慧聖印雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3781,6 +3810,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "衝動雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3874,6 +3904,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "劍刃亂舞雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3893,6 +3924,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "減速藥膏雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -3912,6 +3944,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "致命投擲雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4128,6 +4161,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "鬼魅攻擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4188,6 +4222,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "出血雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4207,6 +4242,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "伺機待發雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4226,6 +4262,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "割裂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4286,6 +4323,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "精力雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4469,6 +4507,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "格擋雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4488,6 +4527,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "嗜血雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4548,6 +4588,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "毀滅打擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4690,6 +4731,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "援護雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4709,6 +4751,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "致死打擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4851,6 +4894,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "共鳴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -4911,6 +4955,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "破釜沉舟雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5004,6 +5049,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "嘲諷雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5023,6 +5069,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "乘勝追擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5075,6 +5122,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "治療之環雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5332,6 +5380,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "光明之泉雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5351,6 +5400,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "群體驅散雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5370,6 +5420,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "精神控制雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5422,6 +5473,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗影雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5482,6 +5534,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "治療禱言雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5612,6 +5665,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗言術：滅雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5713,6 +5767,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "拯救之魂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5732,6 +5787,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "反魔法護罩雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5751,6 +5807,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "心臟打擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5770,6 +5827,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "活力分流雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5830,6 +5888,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "寒冰鎖鏈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5849,6 +5908,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "黑暗命令雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5909,6 +5969,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "枯萎凋零雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5928,6 +5989,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "死亡之擁雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -5988,6 +6050,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "寒冬號角雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6007,6 +6070,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "冰封之韌雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6067,6 +6131,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "湮沒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6152,6 +6217,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "符文打擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6299,6 +6365,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "亡者復生雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6318,6 +6385,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "邪爆雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6335,6 +6403,26 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Russian"] = "Символ мора",
 			["Spanish"] = "Glifo de Pestilencia",
 			["Taiwanese"] = "傳染雕文",
+		},
+		["phase"] = 1,
+		["special_action"] = "minor inscription research",
+	},
+	{
+		["expansion"] = 3,
+		["id"] = 57231,
+		["item_id"] = 42897,
+		["min_skill"] = 9999,
+		["name"] = {
+			["Chinese"] = "Death Knight Glyph 25",
+			["English"] = "Death Knight Glyph 25",
+			["French"] = "Death Knight Glyph 25",
+			["German"] = "Todesritterglyphe 25",
+			["Korean"] = "죽음의 기사 문양",
+			["Mexican"] = "Death Knight Glyph 25",
+			["Portuguese"] = "Glifo de Cavaleiro da Morte 25",
+			["Russian"] = "Death Knight Glyph 25",
+			["Spanish"] = "Death Knight Glyph 25",
+			["Taiwanese"] = "Death Knight Glyph 25",
 		},
 		["phase"] = 1,
 	},
@@ -6356,6 +6444,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "治療鏈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6375,6 +6464,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "閃電鏈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6394,6 +6484,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "熔岩雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6413,6 +6504,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "震擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6465,6 +6557,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "火焰元素圖騰雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6689,6 +6782,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "治療波雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6831,6 +6925,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "法力潮汐圖騰雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -6920,6 +7015,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "元素掌握雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7013,6 +7109,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "雷霆風暴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7065,6 +7162,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "燃燒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7125,6 +7223,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "痛苦詛咒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7144,6 +7243,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "死亡纏繞雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7204,6 +7304,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "惡魔衛士雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7223,6 +7324,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "地獄獵犬雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7324,6 +7426,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "恐懼嚎叫雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7343,6 +7446,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "獻祭雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7526,6 +7630,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "生命虹吸雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -7619,6 +7724,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "痛苦無常雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8180,6 +8286,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "火焰衝擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8199,6 +8306,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水棲形態雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8218,6 +8326,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "挑戰咆哮雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8237,6 +8346,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "無憂復生雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8256,6 +8366,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "荊棘雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8275,6 +8386,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "野性雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8294,6 +8406,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "豹群雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8313,6 +8426,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "恐嚇野獸雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8332,6 +8446,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "復活寵物雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8351,6 +8466,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "支配之力雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8370,6 +8486,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "治療寵物雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8389,6 +8506,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "假死雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8408,6 +8526,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "奧術智慧雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8427,6 +8546,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "防護火焰結界雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8446,6 +8566,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "霜甲雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8465,6 +8586,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "防護冰霜結界雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8484,6 +8606,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "緩落雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8503,6 +8626,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "企鵝雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8522,6 +8646,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "王者祝福雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8541,6 +8666,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "智慧祝福雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8560,6 +8686,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "聖療雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8579,6 +8706,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "力量祝福雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8598,6 +8726,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "感知亡靈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8617,6 +8746,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "智者雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8636,6 +8766,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "漸隱雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8655,6 +8786,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "堅韌雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8674,6 +8806,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "漂浮雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8693,6 +8826,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "束縛亡靈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8712,6 +8846,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗影防護雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8731,6 +8866,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗影魔雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8750,6 +8886,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水上漂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8769,6 +8906,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "擾亂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8788,6 +8926,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "開鎖雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8807,6 +8946,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "妙手空空雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8826,6 +8966,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "安全降落雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8845,6 +8986,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "消失雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8864,6 +9006,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "星界傳送雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8883,6 +9026,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "新生雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8902,6 +9046,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水下呼吸雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8921,6 +9066,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水之護盾雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8940,6 +9086,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水上行走雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8959,6 +9106,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "水下呼吸雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8978,6 +9126,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "吸取靈魂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -8997,6 +9146,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "疲勞詛咒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9016,6 +9166,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "征服惡魔雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9035,6 +9186,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "基爾羅格雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9054,6 +9206,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "靈魂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9073,6 +9226,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "戰鬥雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9092,6 +9246,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "血性狂暴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9111,6 +9266,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "衝鋒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9130,6 +9286,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "懲戒痛擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9149,6 +9306,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "雷霆一擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9168,6 +9326,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "持久追擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9836,6 +9995,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "急奔雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -9855,6 +10015,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "幽靈狼雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -10832,6 +10993,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "神聖憤怒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -10851,6 +11013,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "正義聖印雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -10870,6 +11033,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "復仇聖印雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -11139,6 +11303,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "霜火雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "northrend inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -11238,6 +11403,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "猛禽一擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11257,6 +11423,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "石爪圖騰雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11276,6 +11443,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "生命分流雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11295,6 +11463,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "驅散射擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11314,6 +11483,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "靈魂鏈接雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11333,6 +11503,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "拯救雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11352,6 +11523,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "盾牆雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11371,6 +11543,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "爆炸陷阱雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11390,6 +11563,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "神聖震擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11409,6 +11583,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "警戒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11428,6 +11603,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "樹皮雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11447,6 +11623,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "寒冰護體雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11753,6 +11930,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "狂暴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11772,6 +11950,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "野性成長雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11791,6 +11970,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "奇美拉射擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11810,6 +11990,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "爆炸射擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11829,6 +12010,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "深度凍結雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11848,6 +12030,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "活動炸彈雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11867,6 +12050,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "奧術彈幕雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11886,6 +12070,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "聖光道標雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11905,6 +12090,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "正義之鎚雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11924,6 +12110,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "神聖風暴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11943,6 +12130,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "消散雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11962,6 +12150,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "守護之魂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -11981,6 +12170,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "苦修雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12000,6 +12190,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "希望聖歌雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12019,6 +12210,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "血之飢渴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12038,6 +12230,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "殺戮盛筵雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12057,6 +12250,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗影之舞雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12076,6 +12270,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "雷霆雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12095,6 +12290,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "野性狼魂雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12114,6 +12310,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "激流雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12133,6 +12330,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "鬼影纏身雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12152,6 +12350,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "混亂之箭雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12171,6 +12370,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "利刃風暴雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12190,6 +12390,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "震蕩波雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12209,6 +12410,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "符文刃舞雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12228,6 +12430,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "飢餓之寒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12247,6 +12450,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "邪惡蟲群雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12266,6 +12470,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "凜風衝擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12285,6 +12490,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "法術反射雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12304,6 +12510,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗影斗篷雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12323,6 +12530,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "殺戮射擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12342,6 +12550,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "神聖懇求雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12361,6 +12570,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "野蠻咆哮雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12380,6 +12590,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "正義盾擊雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12399,6 +12610,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "精神灼燒雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12418,6 +12630,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "嫁禍訣竅雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12437,6 +12650,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "暗影烈焰雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12456,6 +12670,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "狂怒回复雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
@@ -12475,6 +12690,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "滋養雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12494,6 +12710,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "鏡像雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12513,6 +12730,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "刀扇雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12532,6 +12750,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "妖術雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12551,6 +12770,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "惡魔法陣雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12570,6 +12790,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "惡魔變形雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12589,6 +12810,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "生存本能雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "book of glyph mastery",
 	},
 	{
 		["expansion"] = 3,
@@ -12649,6 +12871,7 @@ MTSL_DATA["skills"]["Inscription"] =
 			["Taiwanese"] = "命令雕文",
 		},
 		["phase"] = 1,
+		["special_action"] = "minor inscription research",
 	},
 	{
 		["expansion"] = 3,
