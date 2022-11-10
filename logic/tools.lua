@@ -48,7 +48,7 @@ MTSL_TOOLS = {
 		for _, v in pairs(objects_to_check) do
 			-- object not present
 			if MTSL_DATA[v] == nil then
-				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL (TBC):  Could not load all the data needed for the addon! Missing " .. v .. ". Please reinstall the addon!")
+				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL (WOTLK):  Could not load all the data needed for the addon! Missing " .. v .. ". Please reinstall the addon!")
 				return false
 			end
 		end
@@ -567,15 +567,15 @@ MTSL_TOOLS = {
 				MTSLUI_TOOLS:GetLocalisedLabel("report bug")
 
 				local error_messages = {
-					["Chinese"] = "MTSL (TBC):  找不到 ID 為 " .. object_id .. " 的" .. type_data .. "。",
-					["English"] = "MTSL (TBC):  Could not find '" .. type_data .. "' with id " .. object_id .. ".",
-					["French"] = "MTSL (TBC) : Impossible de trouver '" .. type_data .. "' avec l'identifiant " .. object_id .. ".",
-					["German"] = "MTSL (TBC):  '" .. type_data .. "' mit ID " .. object_id .. " konnte nicht gefunden werden.",
-					["Mexican"] = "MTSL (TBC):  No se pudo encontrar '" .. type_data .. "' con id " .. object_id .. ".",
-					["Portuguese"] = "MTSL (TBC):  Não foi possível encontrar '" .. type_data .. "' com id " .. object_id .. ".",
-					["Russian"] = "MTSL (TBC):  Не удалось найти '" .. type_data .. "' c идентификатором " .. object_id .. ".",
-					["Spanish"] = "MTSL (TBC):  No se pudo encontrar '" .. type_data .. "' con id " .. object_id .. ".",
-					["Taiwanese"] = "MTSL (TBC):  找不到 ID 为 " .. object_id .. " 的" .. type_data .. "。",
+					["Chinese"] = "MTSL (WOTLK):  找不到 ID 為 " .. object_id .. " 的" .. type_data .. "。",
+					["English"] = "MTSL (WOTLK):  Could not find '" .. type_data .. "' with id " .. object_id .. ".",
+					["French"] = "MTSL (WOTLK) : Impossible de trouver '" .. type_data .. "' avec l'identifiant " .. object_id .. ".",
+					["German"] = "MTSL (WOTLK):  '" .. type_data .. "' mit ID " .. object_id .. " konnte nicht gefunden werden.",
+					["Mexican"] = "MTSL (WOTLK):  No se pudo encontrar '" .. type_data .. "' con id " .. object_id .. ".",
+					["Portuguese"] = "MTSL (WOTLK):  Não foi possível encontrar '" .. type_data .. "' com id " .. object_id .. ".",
+					["Russian"] = "MTSL (WOTLK):  Не удалось найти '" .. type_data .. "' c идентификатором " .. object_id .. ".",
+					["Spanish"] = "MTSL (WOTLK):  No se pudo encontrar '" .. type_data .. "' con id " .. object_id .. ".",
+					["Taiwanese"] = "MTSL (WOTLK):  找不到 ID 为 " .. object_id .. " 的" .. type_data .. "。",
 				}
 				if not MTSLUI_CURRENT_LANGUAGE then MTSLUI_CURRENT_LANGUAGE = "English" end
 				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. error_messages[MTSLUI_CURRENT_LANGUAGE] .. " ".. MTSLUI_TOOLS:GetLocalisedLabel("report bug"))

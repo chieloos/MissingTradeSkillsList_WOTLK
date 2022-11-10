@@ -5,7 +5,7 @@
 -- holds all info about the addon itself
 MTSLUI_ADDON = {
     AUTHOR = "Thumbkin",
-    NAME = "Missing TradeSkills List (TBC)",
+    NAME = "Missing TradeSkills List (WOTLK)",
     VERSION = "2.5.08",
     PATCH_TEXT =
 '* Optimised the way the addon scans for missing skills\n' ..
@@ -66,4 +66,4 @@ MTSLUI_ICONS_PROFESSION = {
     ["First Aid"] = "135966",
     ["Fishing"] = "136245",
 }
-MTSLUI_ADDON_PATH = "Interface\\AddOns\\MissingTradeSkillsList_TBC"
+MTSLUI_ADDON_PATH = "Interface\\AddOns\\MissingTradeSkillsList_WOTLK"
