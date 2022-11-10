@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3918,
+		["item_id"] = 4357,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "劣质火药",
@@ -25,6 +26,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3919,
+		["item_id"] = 4358,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "劣质炸药",
@@ -44,6 +46,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3920,
+		["item_id"] = 8067,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "精制轻弹丸",

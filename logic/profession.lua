@@ -253,21 +253,11 @@ MTSL_LOGIC_PROFESSION = {
                     if skill_name and skill_type ~= "header" then
                         -- Check if skill has a crafted item
                         local crafted_item_link = GetTradeSkillItemLink(i)
-                            if crafted_item_link ~= nil then
-                                local crafted_item_id = crafted_item_link:match("item:(%d+)")
-                            else
-                                local crafted_item_id = nil
-                            end
-                        -- local crafted_item_id = GetTradeSkillItemLink(i):match("item:(%d+)")
-                        if crafted_item_id then
+                        if crafted_item_link ~= nil then
+                            local crafted_item_id = crafted_item_link:match("item:(%d+)")
                             local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByCraftedItemId(crafted_item_id, profession_name)
                             if skill_id ~= 0 then
                                 table.insert(learned_skill_ids, skill_id)
-                            else
-                                local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByLocalisedName(skill_name, profession_name)
-                                if skill_id ~= 0 then
-                                    table.insert(learned_skill_ids, skill_id)
-                                end
                             end
                         else
                             local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByLocalisedName(skill_name, profession_name)

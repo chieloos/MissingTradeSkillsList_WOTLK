@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2329,
+		["item_id"] = 2454,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "狮王之力药剂",
@@ -25,6 +26,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2330,
+		["item_id"] = 118,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "初级治疗药水",
@@ -976,6 +978,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7183,
+		["item_id"] = 5997,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "初级防御药剂",

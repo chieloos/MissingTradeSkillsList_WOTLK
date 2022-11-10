@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2660,
+		["item_id"] = 2862,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "劣质磨刀石",
@@ -113,6 +114,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2663,
+		["item_id"] = 2853,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "铜质护腕",
@@ -702,6 +704,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3115,
+		["item_id"] = 3239,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "劣质平衡石",
@@ -3531,6 +3534,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12260,
+		["item_id"] = 10421,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "劣质铜外衣",
