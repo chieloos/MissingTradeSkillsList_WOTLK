@@ -26,18 +26,18 @@ MTSLOPTUI_RESET_FRAME = {
 
         self.ui_frame.realm_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("realm"), 22, -30, "LABEL", "TOPLEFT")
         -- add drop down list for realm & characters
-        self.ui_frame.realm_drop_down = CreateFrame("Frame", "MTSLOPTUI_RESET_FRAME_DD_REALM", self.ui_frame, "UIDropDownMenuTemplate")
+        self.ui_frame.realm_drop_down = MTSLUI_LIBS.DD:Create_UIDropDownMenu("MTSLOPTUI_RESET_FRAME_DD_REALM", self.ui_frame)
         self.ui_frame.realm_drop_down:SetPoint("TOPLEFT", self.ui_frame, "TOPLEFT", 70, -22)
         self.ui_frame.realm_drop_down.initialize = self.CreateDropDownRealms
-        UIDropDownMenu_SetWidth(self.ui_frame.realm_drop_down, 150)
-        UIDropDownMenu_SetText(self.ui_frame.realm_drop_down, self.current_realm)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetWidth(self.ui_frame.realm_drop_down, 150)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(self.ui_frame.realm_drop_down, self.current_realm)
 
         self.ui_frame.player_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("character"), 280, -30, "LABEL", "TOPLEFT")
-        self.ui_frame.player_drop_down = CreateFrame("Frame", "MTSLOPTUI_RESET_FRAME_DD_PLAYER", self.ui_frame, "UIDropDownMenuTemplate")
+        self.ui_frame.player_drop_down = MTSLUI_LIBS.DD:Create_UIDropDownMenu("MTSLOPTUI_RESET_FRAME_DD_PLAYER", self.ui_frame)
         self.ui_frame.player_drop_down:SetPoint("TOPLEFT", self.ui_frame.realm_drop_down, "TOPRIGHT", 65, 0)
         self.ui_frame.player_drop_down.initialize = self.CreateDropDownPlayersOnRealm
-        UIDropDownMenu_SetWidth(self.ui_frame.player_drop_down, 150)
-        UIDropDownMenu_SetText(self.ui_frame.player_drop_down, self.current_player)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetWidth(self.ui_frame.player_drop_down, 150)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(self.ui_frame.player_drop_down, self.current_player)
 
         -- calculate position
         local left = MTSLUI_OPTIONS_MENU_FRAME.FRAME_WIDTH - 230
@@ -57,13 +57,13 @@ MTSLOPTUI_RESET_FRAME = {
                     end
                     -- if we removed last char, nothing left
                     if MTSLOPTUI_RESET_FRAME.current_realm ~= nil then
-                        UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.realm_drop_down, MTSLOPTUI_RESET_FRAME.current_realm)
+                        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.realm_drop_down, MTSLOPTUI_RESET_FRAME.current_realm)
                         -- Rebuild player dropdown
                         MTSLOPTUI_RESET_FRAME:CreateDropDownPlayersOnRealm(1)
-                        UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.player_drop_down, MTSLOPTUI_RESET_FRAME.current_player)
+                        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.player_drop_down, MTSLOPTUI_RESET_FRAME.current_player)
                     else
-                        UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.realm_drop_down, "")
-                        UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.player_drop_down, "")
+                        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.realm_drop_down, "")
+                        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(MTSLOPTUI_RESET_FRAME.ui_frame.player_drop_down, "")
                     end
                 end
             end
@@ -146,12 +146,12 @@ MTSLOPTUI_RESET_FRAME = {
 
     ChangeRealm = function(self, realm_id, realm_name)
         self.current_realm = realm_name
-        UIDropDownMenu_SetText(self.ui_frame.realm_drop_down, realm_name)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(self.ui_frame.realm_drop_down, realm_name)
         -- changed realm so update player list
         self.current_player = nil
         self:CreateDropDownPlayersOnRealm(1)
         -- update the text in dropdown
-        UIDropDownMenu_SetText(self.ui_frame.player_drop_down, self.current_player)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(self.ui_frame.player_drop_down, self.current_player)
     end,
 
     ----------------------------------------------------------------------------------------------------------
@@ -174,7 +174,7 @@ MTSLOPTUI_RESET_FRAME = {
 
     ChangePlayer = function(self, value, text)
         self.current_player = text
-        UIDropDownMenu_SetText(self.ui_frame.player_drop_down, text)
+        MTSLUI_LIBS.DD:UIDropDownMenu_SetText(self.ui_frame.player_drop_down, text)
     end,
 
     -- Try to select the current logged in player in the drop down
