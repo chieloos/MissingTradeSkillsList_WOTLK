@@ -2,6 +2,7 @@
 -- Name: MTSLUI_Tools									   --
 -- Description: contains all shared functions regarding UI --
 -------------------------------------------------------------
+
 MTSLUI_TOOLS = {
 	-- flag to warn ppl to install tomtom before it can add waypoints
 	tomtom_warned = false,
@@ -327,10 +328,10 @@ MTSLUI_TOOLS = {
 	-- returns				Frame		Returns the created frame
 	----------------------------------------------------------------------------------------
 	CreateDropDown = function (self, name, frame_owner, point_owner, point_anchor, margin_left, margin_top, initialiser, width_dd)
-		local drop_down = CreateFrame("Frame", name, frame_owner, "UIDropDownMenuTemplate")
+		local drop_down = MTSLUI_LIBS.DD:Create_UIDropDownMenu(name, frame_owner)
 		drop_down:SetPoint("TOPLEFT", point_owner, point_anchor, margin_left, margin_top)
 		drop_down.initialize = initialiser
-		UIDropDownMenu_SetWidth(drop_down, width_dd)
+		MTSLUI_LIBS.DD:UIDropDownMenu_SetWidth(drop_down, width_dd)
 		return drop_down
 	end,
 
@@ -342,7 +343,7 @@ MTSLUI_TOOLS = {
 	-- @change_frame_name	String			The name of the frame to handle the change event
 	------------------------------------------------------------------------------------------------
 	FillDropDown = function(self, values, change_handler, change_frame_name)
-		local info = UIDropDownMenu_CreateInfo()
+		local info = MTSLUI_LIBS.DD:UIDropDownMenu_CreateInfo()
 		-- add all values
 		for _, v in pairs(values) do
 			-- already localised in array so no need to index
@@ -356,10 +357,10 @@ MTSLUI_TOOLS = {
 				else
 					change_handler(v.id, v.name)
 				end
-				CloseDropDownMenus()
+				MTSLUI_LIBS.DD:CloseDropDownMenus()
 			end
 			info.hasArrow = false
-			UIDropDownMenu_AddButton(info)
+			MTSLUI_LIBS.DD:UIDropDownMenu_AddButton(info)
 		end
 	end,
 
@@ -373,7 +374,7 @@ MTSLUI_TOOLS = {
 	-- @ddl_id_name			String			The base tag for each dropdownbutton of the dropdownlist
 	------------------------------------------------------------------------------------------------
 	FillDropDownCheckable = function(self, values, change_handler, change_frame_name)
-		local info = UIDropDownMenu_CreateInfo()
+		local info = MTSLUI_LIBS.DD:UIDropDownMenu_CreateInfo()
 		-- add all values
 		for _, v in pairs(values) do
 			-- already localised in array so no need to index
@@ -390,7 +391,7 @@ MTSLUI_TOOLS = {
 			-- keep it open so we can (un)check multiple items at once
 			info.keepShownOnClick = true
 			info.hasArrow = false
-			UIDropDownMenu_AddButton(info)
+			MTSLUI_LIBS.DD:UIDropDownMenu_AddButton(info)
 		end
 	end,
 
