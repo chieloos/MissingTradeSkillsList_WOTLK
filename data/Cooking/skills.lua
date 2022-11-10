@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2538,
+		["item_id"] = 2679,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "烧烤狼肉",
@@ -63,6 +64,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2540,
+		["item_id"] = 2681,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "烤野猪肉",
@@ -1064,6 +1066,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8604,
+		["item_id"] = 6888,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "草药烘蛋",

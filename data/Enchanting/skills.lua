@@ -66,6 +66,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7421,
+		["item_id"] = 6218,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "符文铜棒",

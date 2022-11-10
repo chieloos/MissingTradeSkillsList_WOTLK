@@ -100,6 +100,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2387,
+		["item_id"] = 2570,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "亚麻披风",
@@ -603,6 +604,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2963,
+		["item_id"] = 2996,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "亚麻布卷",
@@ -1794,6 +1796,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3915,
+		["item_id"] = 4344,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "棕色亚麻衬衣",
@@ -2967,6 +2970,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12044,
+		["item_id"] = 10045,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "简易亚麻短裤",
