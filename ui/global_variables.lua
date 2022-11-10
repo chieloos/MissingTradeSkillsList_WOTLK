@@ -40,7 +40,7 @@ MTSLUI_ADDON = {
             ["id"] = 5,
             ["max_tocversion"] = 30400,
         }
-    }
+    },
 }
 
 MTSL_CURRENT_OPENED_CRAFT = nil
@@ -66,5 +66,4 @@ MTSLUI_ICONS_PROFESSION = {
     ["First Aid"] = "135966",
     ["Fishing"] = "136245",
 }
-
 MTSLUI_ADDON_PATH = "Interface\\AddOns\\MissingTradeSkillsList_TBC"

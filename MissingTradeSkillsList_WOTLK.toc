@@ -3,11 +3,15 @@
 ## Author: Thumbkin
 ## Notes: Shows missing skills & recipes for a profession and where to get them.
 ## SavedVariables: MTSL_PLAYERS, MTSLUI_PLAYER, MTSL_MISSING_DATA
+## OptionalDeps: !LibUIDropDownMenu
 ## Version: 2.5.1
 
 #
 # Load all global variables, saved variables & locale
 #
+
+libs\LibStub\Libstub.lua
+libs\LibUIDropDownMenu\LibUIDropDownMenu.xml
 
 data\global_variables.lua
 
@@ -113,6 +117,7 @@ logic\world.lua
 ui\fonts.lua
 ui\tools.lua
 ui\event_handler.lua
+ui\libs.lua
 
 # Shared Frames
 ui\common\base_frame.lua

@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2657,
+		["item_id"] = 2840,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "熔炼铜锭",

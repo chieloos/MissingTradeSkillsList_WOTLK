@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3275,
+		["item_id"] = 1251,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "亚麻绷带",

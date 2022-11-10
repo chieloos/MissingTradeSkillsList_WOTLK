@@ -584,12 +584,9 @@ MTSL_LOGIC_PLAYER_NPC = {
             -- only scan for missing skills if it has a tradeskill/craft frame
             local amount_specs_learned = 0
             local known_skill_ids = {}
-            if profession_name == "Enchanting" then
-                known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentCraft(profession_name)
-            else
-                amount_specs_learned = self:UpdateSpecialisations(profession_name)
-                known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentTradeSkill(profession_name)
-            end
+            
+            amount_specs_learned = self:UpdateSpecialisations(profession_name)
+            known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentTradeSkill(profession_name)
 
             self:UpdateMissingSkillsForProfession(known_skill_ids, profession_name, amount_specs_learned)
 

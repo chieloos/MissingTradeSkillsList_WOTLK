@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25255,
+		["item_id"] = 20816,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "精巧的铜线",
@@ -401,6 +402,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25493,
+		["item_id"] = 20906,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "铜丝戒指",
@@ -1406,6 +1408,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26925,
+		["item_id"] = 21931,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "铜纹戒指",
@@ -3495,6 +3498,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32259,
+		["item_id"] = 25498,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "劣质石像",

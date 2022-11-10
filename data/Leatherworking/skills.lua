@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2149,
+		["item_id"] = 2302,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "手工皮靴",
@@ -25,6 +26,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2152,
+		["item_id"] = 2304,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "轻型护甲片",
@@ -518,6 +520,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2881,
+		["item_id"] = 2318,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "轻皮",
@@ -1593,6 +1596,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7126,
+		["item_id"] = 5957,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "手工皮外衣",
@@ -1888,6 +1892,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9058,
+		["item_id"] = 7276,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "手工皮披风",
@@ -1907,6 +1912,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9059,
+		["item_id"] = 7277,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "手工皮护腕",

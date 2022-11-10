@@ -333,13 +333,9 @@ MTSLUI_EVENT_HANDLER = {
     ---------------------------------------------------------------------------------------
     SwapToProfession = function(self, profession_name, current_skill_level, max_level)
 		MTSL_CURRENT_OPENED_PROFESSION = profession_name
-        if profession_name == "Enchanting" then
-			MTSL_CURRENT_OPENED_CRAFT = profession_name
-            MTSLUI_TOGGLE_BUTTON:SwapToCraftMode()
-        else
-			MTSL_CURRENT_OPENED_TRADESKILL = profession_name
-            MTSLUI_TOGGLE_BUTTON:SwapToTradeSkillMode()
-        end
+        
+		MTSL_CURRENT_OPENED_TRADESKILL = profession_name
+        MTSLUI_TOGGLE_BUTTON:SwapToTradeSkillMode()
 
         MTSLUI_TOGGLE_BUTTON:Show()
         -- Update the missing skills for the current player
