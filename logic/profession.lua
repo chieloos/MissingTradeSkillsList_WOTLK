@@ -178,7 +178,8 @@ MTSL_LOGIC_PROFESSION = {
         if MTSL_DATA["skills"][profession_name] then
             -- add all the skills, dont add a skill if obtainable for ohter classes
             for _, skill in pairs(MTSL_DATA["skills"][profession_name]) do
-                if (tonumber(skill.expansion) < tonumber(max_expansion) or tonumber(skill.phase) <= tonumber(max_phase)) and
+                if (tonumber(skill.expansion) < tonumber(max_expansion) or 
+                        (tonumber(skill.expansion) == tonumber(max_expansion) and tonumber(skill.phase) <= tonumber(max_phase))) and
                         (not skill.classes or (skill.classes and MTSL_TOOLS:ListContainsKeyIngoreCasingAndSpaces(skill.classes, class_name))) then
                     table.insert(profession_skills, skill)
                 end
