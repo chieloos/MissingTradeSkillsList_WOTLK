@@ -192,7 +192,7 @@ MTSL_LOGIC_PLAYER_NPC = {
             MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name]["LEARNED_SKILLS"] = auto_learned
         end
 
-        local missing_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_DATA.CURRENT_EXPANSION_ID, MTSL_CURRENT_PLAYER.CLASS)
+        local missing_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_EXPANSION_ID, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_CURRENT_PLAYER.CLASS)
 
         if missing_skills ~= {} then
             MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name]["AMOUNT_MISSING"] = MTSL_TOOLS:CountItemsInArray(missing_skills)
@@ -625,7 +625,7 @@ MTSL_LOGIC_PLAYER_NPC = {
 
     UpdateMissingSkillsForProfession = function(self, known_skill_ids, profession_name, amount_specs_learned)
         -- get the list of available skills in the current phase for the profession,
-        local available_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_DATA.CURRENT_EXPANSION_ID, MTSL_CURRENT_PLAYER.CLASS)
+        local available_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_EXPANSION_ID, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_CURRENT_PLAYER.CLASS)
         -- sort the array by minimum skill
         MTSL_TOOLS:SortArrayByProperty(available_skills, "id")
 
