@@ -1,7 +1,7 @@
 -------------------------------------------------------
 -- All item based currencies
 -------------------------------------------------------
-MTSL_DATA["currencies"]["items"] = {
+MTSL_DATA["currencies"]["item"] = {
     {
         ["id"] = 17203,
         ["name"] = {
@@ -48,7 +48,7 @@ MTSL_DATA["currencies"]["items"] = {
         },
     },
     {
-        ["id"] = 26044,
+        ["id"] = 34052,
         ["name"] = {
             ["Chinese"] = "梦境碎片",
             ["English"] = "Dream Shard",
